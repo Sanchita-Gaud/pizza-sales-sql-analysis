@@ -39,7 +39,11 @@ The objective of this project was to practice SQL by solving business problems u
 - Customer orders peaked during lunch and evening hours.
 
 ## 📎 Project File
-The complete project, including SQL queries, analysis, and visualizations, is available in the PowerPoint presentation uploaded to this repository.
+The complete project, including SQL queries, analysis, and visualizations, is available in 
+the PDF uploaded to this repository.
+
+[Pizza sales analysis with SQL.pdf](https://github.com/user-attachments/files/30007360/Pizza.sales.analysis.with.SQL.pdf)
+
 
 ---
 Created by **Sanchita Gaud**
